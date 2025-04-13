@@ -3,8 +3,6 @@
 
 set -eufo pipefail
 
-echo "run_onchange script triggered"
-
 brew bundle --file=/dev/stdin <<EOF
 {{ range .packages.darwin.brews -}}
 brew {{ . | quote }}

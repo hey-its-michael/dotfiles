@@ -3,8 +3,10 @@ packages:
     taps:
     - 'sdkman/tap'
     brews:
+    - 'gh'
     - 'jq'
     - 'terraform-ls' # Terraform Language Server
     - 'tfenv'        # Terraform version manager inspired by rbenv
     - 'tree'
+    - 'wget'
     casks: []
