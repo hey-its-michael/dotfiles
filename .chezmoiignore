@@ -1,0 +1,18 @@
+.ssh/
+.gnupg/
+.aws/
+.netrc
+.bash_history
+.zsh_history
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*.log
+
+Desktop/
+Downloads/
+Movies/
+Music/
+Pictures/
