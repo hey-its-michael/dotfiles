@@ -1,0 +1,10 @@
+packages:
+  darwin:
+    taps:
+    - 'sdkman/tap'
+    brews:
+    - 'jq'
+    - 'terraform-ls' # Terraform Language Server
+    - 'tfenv'        # Terraform version manager inspired by rbenv
+    - 'tree'
+    casks: []
