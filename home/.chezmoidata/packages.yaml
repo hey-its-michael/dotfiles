@@ -3,10 +3,13 @@ packages:
     taps:
     - 'sdkman/tap'
     brews:
-    - 'gh'
-    - 'jq'
+    - 'chezmoi'      # Manage your dotfiles across multiple diverse machines, securely
+    - 'docker'       # Pack, ship and run any application as a lightweight container
+    - 'gh'           # GitHub command-line tool
+    - 'git-secrets'  # Prevents you from committing sensitive information to a git repo
+    - 'jq'           # Lightweight and flexible command-line JSON processor
     - 'terraform-ls' # Terraform Language Server
     - 'tfenv'        # Terraform version manager inspired by rbenv
-    - 'tree'
-    - 'wget'
+    - 'tree'         # Display directories as trees (with optional color/HTML output)
+    - 'wget'         # Internet file retriever
     casks: []
