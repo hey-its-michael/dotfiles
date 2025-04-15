@@ -8,6 +8,7 @@ packages:
     - 'gh'           # GitHub command-line tool
     - 'git-secrets'  # Prevents you from committing sensitive information to a git repo
     - 'jq'           # Lightweight and flexible command-line JSON processor
+    - 'neovim'       # Ambitious Vim-fork focused on extensibility and agility
     - 'terraform-ls' # Terraform Language Server
     - 'tfenv'        # Terraform version manager inspired by rbenv
     - 'tldr'         # Simplified and community-driven man pages
