@@ -1,3 +1,6 @@
 source ~/.zsh/aliases.zsh
 source ~/.config/op/plugins.sh
-bindkey "^R" history-incremental-search-backward
+
+# Keybindings
+bindkey -e # Use emacs-style keybindings
+
