@@ -3,6 +3,7 @@ packages:
     taps:
     - 'sdkman/tap'
     brews:
+    - 'awscli'       # Official AWS command-line interface
     - 'chezmoi'      # Manage your dotfiles across multiple diverse machines, securely
     - 'docker'       # Pack, ship and run any application as a lightweight container
     - 'gh'           # GitHub command-line tool
