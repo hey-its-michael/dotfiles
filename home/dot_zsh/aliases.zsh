@@ -21,3 +21,5 @@ alias cmcd='chezmoi cd'
 alias cmed='chezmoi edit'
 alias cmg='chezmoi git'
 
+# Kubernetes
+alias k=kubectl
