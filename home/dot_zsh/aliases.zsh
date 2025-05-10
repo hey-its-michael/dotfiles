@@ -1,3 +1,7 @@
+# Vi/Vim/Neovim
+alias vi="nvim"
+alias vim="nvim"
+
 # Git
 alias gst='git status'
 alias gp='git push'
