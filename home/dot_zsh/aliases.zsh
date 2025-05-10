@@ -23,3 +23,9 @@ alias cmg='chezmoi git'
 
 # Kubernetes
 alias k=kubectl
+
+# tmux
+alias ta='tmux attach -t'
+alias ts='tmux new-session -s'
+alias tksv='tmux kill-server'
+alias tl='tmux list-sessions'
