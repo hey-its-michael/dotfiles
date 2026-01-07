@@ -1,0 +1,7 @@
+# Homebrew
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
+# SDKMAN! (see https://github.com/sdkman/homebrew-tap/issues/2)
+export SDKMAN_DIR=$(brew --prefix sdkman-cli)/libexec
+[[ -s "${SDKMAN_DIR}/bin/sdkman-init.sh" ]] && source "${SDKMAN_DIR}/bin/sdkman-init.sh"
+
