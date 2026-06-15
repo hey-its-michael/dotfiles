@@ -13,6 +13,7 @@ packages:
     - 'terraform-ls' # Terraform Language Server
     - 'tfenv'        # Terraform version manager inspired by rbenv
     - 'tldr'         # Simplified and community-driven man pages
+    - 'tmux'
     - 'tree'         # Display directories as trees (with optional color/HTML output)
     - 'wget'         # Internet file retriever
     casks: []
