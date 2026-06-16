@@ -14,7 +14,7 @@ packages:
     - 'jq'           # Lightweight and flexible command-line JSON processor
     - 'kubectl'
     - 'neovim'       # Ambitious Vim-fork focused on extensibility and agility
-    - 'opencode-ai/tap/opencode'
+    - 'anomalyco/tap/opencode'
     - 'terraform-ls' # Terraform Language Server
     - 'ripgrep'
     - 'tfenv'        # Terraform version manager inspired by rbenv
