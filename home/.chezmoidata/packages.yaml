@@ -13,6 +13,7 @@ packages:
     - 'jq'           # Lightweight and flexible command-line JSON processor
     - 'kubectl'
     - 'neovim'       # Ambitious Vim-fork focused on extensibility and agility
+    - 'opencode-ai/tap/opencode'
     - 'terraform-ls' # Terraform Language Server
     - 'tfenv'        # Terraform version manager inspired by rbenv
     - 'tldr'         # Simplified and community-driven man pages
