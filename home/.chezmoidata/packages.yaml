@@ -7,6 +7,7 @@ packages:
     - 'chezmoi'      # Manage your dotfiles across multiple diverse machines, securely
     - 'colima'
     - 'docker'       # Pack, ship and run any application as a lightweight container
+    - 'fzf'
     - 'gh'           # GitHub command-line tool
     - 'git-secrets'  # Prevents you from committing sensitive information to a git repo
     - 'helm'
@@ -15,6 +16,7 @@ packages:
     - 'neovim'       # Ambitious Vim-fork focused on extensibility and agility
     - 'opencode-ai/tap/opencode'
     - 'terraform-ls' # Terraform Language Server
+    - 'ripgrep'
     - 'tfenv'        # Terraform version manager inspired by rbenv
     - 'tldr'         # Simplified and community-driven man pages
     - 'tmux'
