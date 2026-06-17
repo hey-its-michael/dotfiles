@@ -18,6 +18,7 @@ packages:
     - 'anomalyco/tap/opencode'
     - 'terraform-ls' # Terraform Language Server
     - 'ripgrep'
+    - 'sops'
     - 'tfenv'        # Terraform version manager inspired by rbenv
     - 'tldr'         # Simplified and community-driven man pages
     - 'tmux'
