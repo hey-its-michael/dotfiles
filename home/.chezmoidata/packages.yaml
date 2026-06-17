@@ -25,4 +25,5 @@ packages:
     - 'tree'         # Display directories as trees (with optional color/HTML output)
     - 'wget'         # Internet file retriever
     - 'zizmor'
-    casks: []
+    casks:
+    - 'rectangle'
