@@ -6,6 +6,7 @@ packages:
     - 'awscli'       # Official AWS command-line interface
     - 'chezmoi'      # Manage your dotfiles across multiple diverse machines, securely
     - 'colima'
+    - 'direnv'
     - 'docker'       # Pack, ship and run any application as a lightweight container
     - 'fzf'
     - 'gh'           # GitHub command-line tool
