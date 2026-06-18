@@ -11,7 +11,9 @@ packages:
     - 'fzf'
     - 'gh'           # GitHub command-line tool
     - 'git-secrets'  # Prevents you from committing sensitive information to a git repo
+    - 'go'
     - 'helm'
+    - 'hugo'
     - 'jq'           # Lightweight and flexible command-line JSON processor
     - 'kubectl'
     - 'neovim'       # Ambitious Vim-fork focused on extensibility and agility
